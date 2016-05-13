@@ -1,0 +1,278 @@
+
+---Downloaded files---
+The import files for: RepairPress Import were successfully downloaded!
+MAX EXECUTION TIME = 1000
+Files info:
+Site URL = http://localhost/bhuvansystem
+Data file = C:\wamp\www\bhuvansystem/wp-content/uploads/2016/05/demo-content-import-file_2016-05-13__05-37-39.xml
+Widget file = C:\wamp\www\bhuvansystem/wp-content/uploads/2016/05/demo-widgets-import-file_2016-05-13__05-37-39.json
+
+---Importing content---
+[WARNING] Could not find the author for "logo" (post #24)
+[WARNING] Could not find the author for "logo@2x" (post #26)
+[WARNING] Could not find the author for "blog (45)" (post #100)
+[WARNING] Could not find the author for "blog (46)" (post #101)
+[WARNING] Could not find the author for "blog (44)" (post #102)
+[WARNING] Could not find the author for "blog (43)" (post #103)
+[WARNING] Could not find the author for "blog (41)" (post #104)
+[WARNING] Could not find the author for "blog (40)" (post #105)
+[WARNING] Could not find the author for "blog (42)" (post #106)
+[WARNING] Could not find the author for "blog (39)" (post #107)
+[WARNING] Could not find the author for "blog (38)" (post #108)
+[WARNING] Could not find the author for "blog (37)" (post #109)
+[WARNING] Could not find the author for "blog (36)" (post #110)
+[WARNING] Could not find the author for "blog (35)" (post #111)
+[WARNING] Could not find the author for "blog (34)" (post #112)
+[WARNING] Could not find the author for "blog (33)" (post #113)
+[WARNING] Could not find the author for "blog (32)" (post #114)
+[WARNING] Could not find the author for "blog (31)" (post #115)
+[WARNING] Could not find the author for "blog (30)" (post #116)
+[WARNING] Could not find the author for "blog (29)" (post #117)
+[WARNING] Could not find the author for "blog (28)" (post #118)
+[WARNING] Could not find the author for "blog (27)" (post #119)
+[WARNING] Could not find the author for "blog (25)" (post #120)
+[WARNING] Could not find the author for "blog (26)" (post #121)
+[WARNING] Could not find the author for "blog (23)" (post #122)
+[WARNING] Could not find the author for "blog (24)" (post #123)
+[WARNING] Could not find the author for "blog (22)" (post #124)
+[WARNING] Could not find the author for "blog (21)" (post #125)
+[WARNING] Could not find the author for "blog (3)" (post #126)
+[WARNING] Could not find the author for "blog (2)" (post #127)
+[WARNING] Could not find the author for "blog (1)" (post #128)
+[WARNING] Could not find the author for "blog (20)" (post #129)
+[WARNING] Could not find the author for "blog (14)" (post #130)
+[WARNING] Could not find the author for "blog (15)" (post #131)
+[WARNING] Could not find the author for "blog (16)" (post #132)
+[WARNING] Could not find the author for "blog (18)" (post #134)
+[WARNING] Could not find the author for "blog (19)" (post #135)
+[WARNING] Could not find the author for "blog (17)" (post #136)
+[WARNING] Could not find the author for "blog (13)" (post #137)
+[WARNING] Could not find the author for "blog (10)" (post #138)
+[WARNING] Could not find the author for "blog (11)" (post #139)
+[WARNING] Could not find the author for "blog (12)" (post #140)
+[WARNING] Could not find the author for "blog (6)" (post #141)
+[WARNING] Could not find the author for "blog (9)" (post #142)
+[WARNING] Could not find the author for "blog (8)" (post #143)
+[WARNING] Could not find the author for "blog (7)" (post #144)
+[WARNING] Could not find the author for "blog (5)" (post #145)
+[WARNING] Could not find the author for "blog (4)" (post #146)
+[WARNING] Could not find the author for "blog (47)" (post #195)
+[WARNING] Could not find the author for "slider (1)" (post #279)
+[WARNING] Could not find the author for "slider (3)" (post #281)
+[WARNING] Could not find the author for "slider (4)" (post #282)
+[WARNING] Could not find the author for "slider (5)" (post #287)
+[WARNING] Could not find the author for "slider (31)" (post #289)
+[WARNING] Could not find the author for "pin" (post #304)
+[WARNING] Could not find the author for "1" (post #307)
+[WARNING] Could not find the author for "2" (post #308)
+[WARNING] Could not find the author for "3" (post #309)
+[WARNING] Could not find the author for "4" (post #310)
+[WARNING] Could not find the author for "5" (post #311)
+[WARNING] Could not find the author for "6" (post #312)
+[WARNING] Could not find the author for "pttrn" (post #322)
+[WARNING] Could not find the author for "1a" (post #326)
+[WARNING] Could not find the author for "1b" (post #327)
+[WARNING] Could not find the author for "2a" (post #328)
+[WARNING] Could not find the author for "2b" (post #329)
+[WARNING] Could not find the author for "3a" (post #330)
+[WARNING] Could not find the author for "3b" (post #331)
+[WARNING] Could not find the author for "4a" (post #332)
+[WARNING] Could not find the author for "4b" (post #333)
+[WARNING] Could not find the author for "fav" (post #353)
+[WARNING] Could not find the author for "cropped-fav.png" (post #354)
+[WARNING] Could not find the author for "footer_logo" (post #380)
+[WARNING] Could not find the author for "about-us_1" (post #381)
+[WARNING] Could not find the author for "about-us_2" (post #382)
+[WARNING] Could not find the author for "about-us_3" (post #383)
+[WARNING] Could not find the author for "about-us_4" (post #384)
+[WARNING] Could not find the author for "about-us_5" (post #385)
+[WARNING] Could not find the author for "about-us_6" (post #386)
+[WARNING] Could not find the author for "product (34)" (post #480)
+[WARNING] Could not find the author for "product (25)" (post #481)
+[WARNING] Could not find the author for "product (26)" (post #482)
+[WARNING] Could not find the author for "product (27)" (post #483)
+[WARNING] Could not find the author for "product (28)" (post #484)
+[WARNING] Could not find the author for "product (29)" (post #485)
+[WARNING] Could not find the author for "product (30)" (post #486)
+[WARNING] Could not find the author for "product (31)" (post #487)
+[WARNING] Could not find the author for "product (32)" (post #488)
+[WARNING] Could not find the author for "product (33)" (post #489)
+[WARNING] Could not find the author for "product (17)" (post #490)
+[WARNING] Could not find the author for "product (18)" (post #491)
+[WARNING] Could not find the author for "product (19)" (post #492)
+[WARNING] Could not find the author for "product (20)" (post #493)
+[WARNING] Could not find the author for "product (21)" (post #494)
+[WARNING] Could not find the author for "product (22)" (post #495)
+[WARNING] Could not find the author for "product (23)" (post #496)
+[WARNING] Could not find the author for "product (24)" (post #497)
+[WARNING] Could not find the author for "product (10)" (post #498)
+[WARNING] Could not find the author for "product (11)" (post #499)
+[WARNING] Could not find the author for "product (12)" (post #500)
+[WARNING] Could not find the author for "Our Services" (post #5)
+[WARNING] Could not find the author for "About Us" (post #9)
+[WARNING] Could not find the author for "Latest News" (post #11)
+[WARNING] Could not find the author for "Contact Us" (post #501)
+[WARNING] Could not find the author for "Home" (post #15)
+[WARNING] Could not find the author for "CONTACT US" (post #18)
+[WARNING] Could not find the author for "LATEST NEWS" (post #19)
+[WARNING] Could not find the author for "ABOUT US" (post #20)
+[WARNING] Could not find the author for "OUR SERVICES" (post #21)
+[WARNING] Could not find the author for "Buy Now" (post #33)
+[WARNING] Could not find the author for "Theme Documentation" (post #34)
+[WARNING] Could not find the author for "How to unlock your Samsung Galaxy S4" (post #147)
+[WARNING] Could not find the author for "Replacing broken screen" (post #152)
+[WARNING] Could not find the author for "How to figure out if my processor is overheated?" (post #156)
+[WARNING] Could not find the author for "Recovering data from SIM card" (post #159)
+[WARNING] Could not find the author for "Reviving your phone – What to do when your phone falls in water" (post #164)
+[WARNING] Could not find the author for "How to spot low-life battery?" (post #166)
+[WARNING] Could not find the author for "The effect of dust and dirt on electronics" (post #168)
+[WARNING] Could not find the author for "Noisy computers and common hardware problems" (post #173)
+[WARNING] Could not find the author for "Water Damage Repair" (post #177)
+[WARNING] Could not find the author for "Magnets and electric devices &#8211; Lost data" (post #179)
+[WARNING] Could not find the author for "Game discs and game console ports" (post #186)
+[WARNING] Could not find the author for "Phone Unlocking" (post #187)
+[WARNING] Could not find the author for "Game Consoles Repair" (post #190)
+[WARNING] Could not find the author for "Replacing laptop and TV screens" (post #194)
+[WARNING] Could not find the author for "Tablet Repair" (post #198)
+[WARNING] Could not find the author for "Damaged ports and slots in laptops" (post #201)
+[WARNING] Could not find the author for "Unlocking PIN protected devices" (post #205)
+[WARNING] Could not find the author for "Broken Glass Repair" (post #206)
+[WARNING] Could not find the author for "Mac &#038; PC Repair" (post #209)
+[WARNING] Could not find the author for "" (post #223)
+[WARNING] Could not find the author for "" (post #224)
+[WARNING] Could not find the author for "" (post #225)
+[WARNING] Could not find the author for "" (post #226)
+[WARNING] Could not find the author for "" (post #227)
+[WARNING] Could not find the author for "" (post #228)
+[WARNING] Could not find the author for "All Services" (post #229)
+[WARNING] Could not find the author for "Extras" (post #256)
+[WARNING] Could not find the author for "Tables" (post #258)
+[WARNING] Could not find the author for "Extras" (post #262)
+[WARNING] Could not find the author for "" (post #263)
+[WARNING] Could not find the author for "" (post #369)
+[WARNING] Could not find the author for "" (post #370)
+[WARNING] Could not find the author for "" (post #371)
+[WARNING] Could not find the author for "" (post #372)
+[WARNING] Could not find the author for "" (post #373)
+[WARNING] Could not find the author for "" (post #374)
+[WARNING] Could not find the author for "" (post #375)
+[WARNING] Could not find the author for "" (post #376)
+[WARNING] Could not find the author for "" (post #377)
+[WARNING] Could not find the author for "" (post #378)
+[WARNING] Could not find the author for "" (post #379)
+[WARNING] Could not find the author for "Shop" (post #462)
+[WARNING] Could not find the author for "Cart" (post #463)
+[WARNING] Could not find the author for "Checkout" (post #464)
+[WARNING] Could not find the author for "My Account" (post #465)
+[WARNING] Could not find the author for "SHOP" (post #471)
+[WARNING] Could not find the author for "product (13)" (post #502)
+[WARNING] Could not find the author for "product (14)" (post #503)
+[WARNING] Could not find the author for "product (15)" (post #504)
+[WARNING] Could not find the author for "product (16)" (post #505)
+[WARNING] Could not find the author for "product (8)" (post #506)
+[WARNING] Could not find the author for "product (9)" (post #507)
+[WARNING] Could not find the author for "product (1)" (post #508)
+[WARNING] Could not find the author for "product (2)" (post #509)
+[WARNING] Could not find the author for "product (3)" (post #510)
+[WARNING] Could not find the author for "product (4)" (post #511)
+[WARNING] Could not find the author for "product (42)" (post #512)
+[WARNING] Could not find the author for "product (5)" (post #513)
+[WARNING] Could not find the author for "product (6)" (post #514)
+[WARNING] Could not find the author for "product (7)" (post #515)
+[WARNING] Could not find the author for "product (35)" (post #516)
+[WARNING] Could not find the author for "product (36)" (post #517)
+[WARNING] Could not find the author for "product (37)" (post #518)
+[WARNING] Could not find the author for "product (38)" (post #519)
+[WARNING] Could not find the author for "product (39)" (post #520)
+[WARNING] Could not find the author for "product (40)" (post #521)
+[WARNING] Could not find the author for "product (41)" (post #522)
+[WARNING] Could not find the author for "Set of torx screws" (post #523)
+[WARNING] Could not find the author for "TV Cable E2435" (post #524)
+[WARNING] Could not find the author for "Loud-it Earphones" (post #525)
+[WARNING] Could not find the author for "Conect-U Ethernet cable" (post #526)
+[WARNING] Could not find the author for "NOKIA 3310 Charger" (post #527)
+[WARNING] Could not find the author for "TV Power Cord" (post #528)
+[WARNING] Could not find the author for "VGA Cabel" (post #529)
+[WARNING] Could not find the author for "Samarts EP004" (post #530)
+[WARNING] Could not find the author for "PS One Video Cord" (post #531)
+[WARNING] Could not find the author for "USB 3.0 Phone Cord" (post #532)
+[WARNING] Could not find the author for "Boost Running Earphones" (post #533)
+[WARNING] Could not find the author for "Mini USB 2.0" (post #534)
+[WARNING] Could not find the author for "echo ep005 Earphones" (post #535)
+[WARNING] Could not find the author for "Data Transport Cabel" (post #536)
+[WARNING] Could not find the author for "Lithium battery N0432" (post #537)
+[WARNING] Could not find the author for "L-cord Mini" (post #538)
+[WARNING] Could not find the author for "Virtuoso Earphones" (post #539)
+[WARNING] Could not find the author for "RCA Audio / Video Cord" (post #540)
+[WARNING] Could not find the author for "Playouts Earphones" (post #541)
+[WARNING] Could not find the author for "Screen Protector" (post #542)
+[WARNING] Could not find the author for "Frequently Asked Questions" (post #560)
+[WARNING] Could not find the author for "FAQ" (post #584)
+[WARNING] Could not find the author for "Contact Us" (post #28)
+[WARNING] Could not find the author for "LUG Micro Plate" (post #543)
+[WARNING] Could not find the author for "Order &ndash; September 15, 2015 @ 12:33 PM" (post #565)
+[WARNING] Could not find the author for "Order &ndash; October 19, 2015 @ 07:19 AM" (post #647)
+[WARNING] Could not find the author for "Order &ndash; October 29, 2015 @ 02:29 PM" (post #653)
+[WARNING] Could not find the author for "Order &ndash; October 30, 2015 @ 09:28 AM" (post #654)
+[WARNING] Could not find the author for "Order &ndash; November 12, 2015 @ 09:40 AM" (post #659)
+[WARNING] Could not find the author for "Order &ndash; November 15, 2015 @ 10:18 AM" (post #661)
+[WARNING] Could not find the author for "Order &ndash; December 7, 2015 @ 02:46 AM" (post #664)
+[WARNING] Could not find the author for "Order &ndash; February 8, 2016 @ 12:03 PM" (post #682)
+[WARNING] Could not find the author for "Order &ndash; February 15, 2016 @ 07:08 AM" (post #683)
+[WARNING] Could not find the author for "Order &ndash; February 15, 2016 @ 12:41 PM" (post #685)
+[WARNING] Could not find the author for "Order &ndash; February 23, 2016 @ 08:58 PM" (post #687)
+[WARNING] Could not find the author for "Order &ndash; February 23, 2016 @ 09:47 PM" (post #688)
+[WARNING] Could not find the author for "Order &ndash; March 6, 2016 @ 07:00 PM" (post #690)
+[WARNING] Could not find the author for "Order &ndash; March 12, 2016 @ 12:19 PM" (post #692)
+[WARNING] Could not find the author for "Order &ndash; March 16, 2016 @ 12:07 AM" (post #693)
+[WARNING] Could not find the author for "Order &ndash; March 21, 2016 @ 07:06 PM" (post #694)
+[WARNING] Could not find the author for "Order &ndash; March 24, 2016 @ 09:53 PM" (post #696)
+[WARNING] Could not find the author for "Order &ndash; March 26, 2016 @ 04:31 PM" (post #697)
+[WARNING] Could not find the author for "Order &ndash; March 26, 2016 @ 10:10 PM" (post #698)
+[WARNING] Could not find the author for "Order &ndash; March 27, 2016 @ 01:04 PM" (post #699)
+[WARNING] Could not find the author for "Order &ndash; April 28, 2016 @ 01:26 PM" (post #703)
+[WARNING] Could not find the author for "Order &ndash; April 28, 2016 @ 02:31 PM" (post #704)
+
+MAX EXECUTION TIME = 300
+
+---Importing widgets---
+Our Services : 
+
+Custom Menu - No Title - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+ProteusThemes: Facebook - Facebook - Imported
+Recent Posts - Posts - Imported
+Tag Cloud - No Title - Imported
+
+Shop Sidebar : 
+
+WooCommerce Cart - Cart - Imported
+WooCommerce Product Categories - Product Categories - Imported
+WooCommerce Products - Products - Imported
+
+Header : 
+
+ProteusThemes: Icon Box - Live Help - Imported
+ProteusThemes: Icon Box - Opening Time - Imported
+ProteusThemes: Icon Box - Email Us - Imported
+Text - No Title - Imported
+
+Navigation : 
+
+ProteusThemes: Social Icons - No Title - Imported
+
+Footer : 
+
+Visual Editor - No Title - Imported
+Custom Menu - NAVIGATION - Imported
+Custom Menu - SERVICES - Imported
+Visual Editor - CONTACT INFO - Imported
+
+
+
+---pt-ocdi/after_import---
+After import setup ended!
